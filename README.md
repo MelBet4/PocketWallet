@@ -107,3 +107,4 @@ To deploy the Flutter web app to Vercel:
 Acknowledgements
 Melanie Chebet - developer
 Allan Lenkaa - Flutter/Dart instructor at Power Learn Project
+
